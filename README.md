@@ -63,5 +63,5 @@ The unit tests validate the functionality of the `Deck` class, ensuring the deck
 1. Ensure you have the .NET SDK installed on your machine.
 2. Clone the repository.
 3. Navigate to the project directory.
-4. Run the tests using the following command:```sh
-dotnet test```
+4. Run the tests using the following command:
+```dotnet test```
